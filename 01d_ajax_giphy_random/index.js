@@ -5,3 +5,4 @@
 // [] transformar o dado recebido
 // [] apresentar <img>
 // [] usar async/await, then(), .catch(), arrow function
+
